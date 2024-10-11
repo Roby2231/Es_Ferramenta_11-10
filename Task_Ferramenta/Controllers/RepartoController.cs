@@ -28,5 +28,13 @@ namespace Task_Ferramenta.Controllers
             return NotFound();
 
         }
+        [HttpGet("ElencoRep")]
+            public ActionResult<List<RepartoDTO>> ElencoReparti()
+           {
+            var reparti = _services.Lista();
+            if (reparti is not null)
+                return Ok(reparti);
+           else return BadRequest();
+        }
     }
 }

@@ -34,7 +34,20 @@ namespace Task_Ferramenta.Services
 
         public IEnumerable<RepartoDTO> Lista()
         {
-            throw new NotImplementedException();
+            var repDTOS = new List<RepartoDTO>();
+            IEnumerable<Reparto> elenco = _repository.GetAll();
+            foreach (var rep in elenco)
+            {
+                RepartoDTO temp = new RepartoDTO()
+                {
+                    Cod = rep.RepartoCOD,
+                    Nom = rep.Nome,
+                    Fil = rep.Fila
+                };
+                repDTOS.Add(temp);
+            }
+
+            return repDTOS;
         }
     }
 }

@@ -140,3 +140,4 @@ C:\Users\Utente\Desktop\Roberta Iannola\Esercizi\Task_Ferramenta\Task_Ferramenta
 C:\Users\Utente\Desktop\Roberta Iannola\Esercizi\Task_Ferramenta\Task_Ferramenta\obj\Debug\net8.0\Task_Ferramenta.pdb
 C:\Users\Utente\Desktop\Roberta Iannola\Esercizi\Task_Ferramenta\Task_Ferramenta\obj\Debug\net8.0\Task_Ferramenta.genruntimeconfig.cache
 C:\Users\Utente\Desktop\Roberta Iannola\Esercizi\Task_Ferramenta\Task_Ferramenta\obj\Debug\net8.0\ref\Task_Ferramenta.dll
+C:\Users\Utente\Desktop\Roberta Iannola\Esercizi\Task_Ferramenta\Task_Ferramenta\obj\Debug\net8.0\Task_Ferramenta.sourcelink.json
