@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\services\\repartoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\services\\repartoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\models\\aelez03ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\models\\aelez03ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|c:\\users\\utente\\desktop\\roberta iannola\\esercizi\\task_ferramenta\\task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BFD9C-6A92-4794-8135-B2AF24F55AE0}|Task_Ferramenta\\Task_Ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AELez03FerramentaContext.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\AELez03FerramentaContext.cs",
-              "RelativeDocumentMoniker": "Task_Ferramenta\\Models\\AELez03FerramentaContext.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\AELez03FerramentaContext.cs",
-              "RelativeToolTip": "Task_Ferramenta\\Models\\AELez03FerramentaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:44:40.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepartoServices.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Services\\RepartoServices.cs",
-              "RelativeDocumentMoniker": "Task_Ferramenta\\Services\\RepartoServices.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Services\\RepartoServices.cs",
-              "RelativeToolTip": "Task_Ferramenta\\Services\\RepartoServices.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:38:23.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reparto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\Reparto.cs",
-              "RelativeDocumentMoniker": "Task_Ferramenta\\Models\\Reparto.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\Reparto.cs",
-              "RelativeToolTip": "Task_Ferramenta\\Models\\Reparto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:28.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\Prodotto.cs",
-              "RelativeDocumentMoniker": "Task_Ferramenta\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Models\\Prodotto.cs",
-              "RelativeToolTip": "Task_Ferramenta\\Models\\Prodotto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAArAAAAAAAAAA==",
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "Task_Ferramenta\\Repos\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeToolTip": "Task_Ferramenta\\Repos\\RepartoRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:20.769Z",
+              "WhenOpened": "2024-10-11T13:10:11.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProdottoController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Controllers\\ProdottoController.cs",
-              "RelativeDocumentMoniker": "Task_Ferramenta\\Controllers\\ProdottoController.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Controllers\\ProdottoController.cs",
-              "RelativeToolTip": "Task_Ferramenta\\Controllers\\ProdottoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "RepartoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Services\\RepartoServices.cs",
+              "RelativeDocumentMoniker": "Task_Ferramenta\\Services\\RepartoServices.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Services\\RepartoServices.cs",
+              "RelativeToolTip": "Task_Ferramenta\\Services\\RepartoServices.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:07.253Z",
+              "WhenOpened": "2024-10-11T13:09:42.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "RepartoController.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Controllers\\RepartoController.cs",
               "RelativeDocumentMoniker": "Task_Ferramenta\\Controllers\\RepartoController.cs",
               "ToolTip": "C:\\Users\\Utente\\Desktop\\Roberta Iannola\\Esercizi\\Task_Ferramenta\\Task_Ferramenta\\Controllers\\RepartoController.cs",
               "RelativeToolTip": "Task_Ferramenta\\Controllers\\RepartoController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwC0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:12:45.216Z",
+              "WhenOpened": "2024-10-11T12:48:20.746Z",
               "EditorCaption": ""
             }
           ]

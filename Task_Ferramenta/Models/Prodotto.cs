@@ -10,7 +10,7 @@ namespace Task_Ferramenta.Models
         public string Nome { get; set; } = null!;
         public string? Descrizione { get; set; }
         public decimal Prezzo { get; set; }
-        public string? Quantita { get; set; }
+        public int Quantita { get; set; }
         public int RepartoRIF { get; set; }      
 
     }

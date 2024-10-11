@@ -1,4 +1,6 @@
-﻿using Task_Ferramenta.Models;
+﻿using Microsoft.IdentityModel.Tokens;
+using Task_Ferramenta.Controllers;
+using Task_Ferramenta.Models;
 using Task_Ferramenta.Repos;
 
 namespace Task_Ferramenta.Services
@@ -49,5 +51,23 @@ namespace Task_Ferramenta.Services
 
             return repDTOS;
         }
+        public bool InserisciReparto(RepartoDTO repDTO)
+        {
+            bool risultato = false;
+         
+            if (!string.IsNullOrWhiteSpace(repDTO.Nom) && !string.IsNullOrWhiteSpace(repDTO.Fil))
+            {
+                Reparto rep = new Reparto()
+                {
+                    RepartoCOD = repDTO.Cod is not null ? repDTO.Cod : Guid.NewGuid().ToString().ToUpper(),
+                    Nome = repDTO.Nom,
+                    Fila = repDTO.Fil
+                };
+
+                return risultato = _repository.Create(rep);
+            }
+
+            return risultato;
+        }
     }
-}
+    }

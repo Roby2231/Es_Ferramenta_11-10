@@ -5,5 +5,6 @@
         public string? Cod { get; set; }
         public string? Nom { get; set; }
         public string? Fil { get; set; }
+
     }
 }

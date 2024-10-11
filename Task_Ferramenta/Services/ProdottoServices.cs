@@ -25,6 +25,7 @@ namespace Task_Ferramenta.Services
                     Des = pro.Descrizione,
                     Pre = pro.Prezzo,
                     Quan = pro.Quantita,
+                    RepRif = pro.RepartoRIF
 
                 };
             }
@@ -34,7 +35,26 @@ namespace Task_Ferramenta.Services
 
         public IEnumerable<ProdottoDTO> Lista()
         {
-            throw new NotImplementedException();
+            {
+                var proDTOS = new List<ProdottoDTO>();
+                IEnumerable<Prodotto> elenco = _repository.GetAll();
+                foreach (var pro in elenco)
+                {
+                    ProdottoDTO temp = new ProdottoDTO()
+                    {
+                        CodBa = pro.CodiceBarre,
+                        Nom = pro.Nome,
+                        Des = pro.Descrizione,
+                        Pre = pro.Prezzo,
+                        Quan = pro.Quantita,
+                        RepRif = pro.RepartoRIF
+                    };
+
+                    proDTOS.Add(temp);
+                }
+
+                return proDTOS;
+            }
         }
     }
 }

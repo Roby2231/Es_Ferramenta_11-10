@@ -36,5 +36,18 @@ namespace Task_Ferramenta.Controllers
                 return Ok(reparti);
            else return BadRequest();
         }
+
+        [HttpPost]
+        public IActionResult InserisciReparto(RepartoDTO repDTO)
+        {         
+            if ((repDTO.Nom is null || repDTO.Nom.Length < 2) || string.IsNullOrWhiteSpace(repDTO.Fil))
+                return BadRequest();
+
+            if (_services.InserisciReparto(repDTO))
+                return Ok();
+
+            return BadRequest();
+        }
     }
 }
+

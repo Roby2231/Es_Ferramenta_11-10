@@ -28,6 +28,14 @@ namespace Task_Ferramenta.Controllers
             return NotFound();
 
         }
+        [HttpGet("ElencoPro")]
+        public ActionResult<List<ProdottoDTO>> ElencoProdotti()
+        {
+            var prodotti = _services.Lista();
+            if (prodotti is not null)
+                return Ok(prodotti);
+            else return BadRequest();
+        }
     }
 }
 

@@ -7,7 +7,8 @@ namespace Task_Ferramenta.Models
     {
         public int RepartoId { get; set; }
         public string RepartoCOD { get; set; } = null!;
-        public string Nome { get; set; } = null!;
+        public string? Nome { get; set; } 
         public string? Fila { get; set; }
+      
     }
 }
